@@ -1,0 +1,2 @@
+Hello from the Conflicts Text Editor
+hello from main
